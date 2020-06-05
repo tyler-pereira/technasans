@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'techna_sansregular';
+    src: url('TechnaSans-Regular-webfont.eot');
+    src: url('TechnaSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TechnaSans-Regular-webfont.woff2') format('woff2'),
+         url('TechnaSans-Regular-webfont.woff') format('woff'),
+         url('TechnaSans-Regular-webfont.ttf') format('truetype'),
+         url('TechnaSans-Regular-webfont.svg#techna_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
